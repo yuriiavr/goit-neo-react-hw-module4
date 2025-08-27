@@ -17,6 +17,7 @@
   padding: 20px;
   max-width: 90vw;
   max-height: 90vh;
+  outline: none;
 }
 
 .modalImage {
